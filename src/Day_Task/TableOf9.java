@@ -1,4 +1,4 @@
-package ex_02_Java_Basics_Part2;
+package Day_Task;
 
 public class TableOf9 {
 
