@@ -1,6 +1,6 @@
 package ex_010_Strings;
 
-public class String_Functions {
+public class String_Fun_lower_upper_Case_len_concat {
 
     public static void main(String[] args) {
         char c = 'A';
