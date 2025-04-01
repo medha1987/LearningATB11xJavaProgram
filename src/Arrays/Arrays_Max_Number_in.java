@@ -28,7 +28,7 @@ public class Arrays_Max_Number_in {
             }
         }
         System.out.println("second largest number"+sec_max);*/
-        int numbers[]={20,98,78,97,67,57,98};
+        int numbers[]={20,108,78,97,67,57,98};
 
         int max1 = 0;
         int max2 = 0;
