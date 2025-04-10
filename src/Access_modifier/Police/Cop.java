@@ -4,6 +4,10 @@ public class Cop {
     private int gun;
     String iCard;
 
+    public Cop(){
+        System.out.println("this is default constructor");
+    }
+
    // Param Con
     public Cop(int bullet){
         this.gun = bullet;
