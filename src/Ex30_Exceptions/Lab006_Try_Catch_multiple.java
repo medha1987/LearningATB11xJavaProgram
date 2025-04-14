@@ -1,6 +1,6 @@
 package Ex30_Exceptions;
 
-public class Lab005_Try_catch_own_message {
+public class Lab006_Try_Catch_multiple {
     public static void main(String[] args) {
 
         System.out.println("1");
@@ -9,12 +9,11 @@ public class Lab005_Try_catch_own_message {
         }catch (ArithmeticException e){
             System.out.println("ARE YOU FOOL");
         }
-     /*   catch (Exception e){
-            System.out.println("ARE YOU FOOL");
-        }*/
+        catch (Exception e){
+            System.out.println("ARE YOU FOOL");//bigger bucket
+        }
         System.out.println("2");
     }
 
-    }
-
+}
 
